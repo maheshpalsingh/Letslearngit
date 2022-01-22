@@ -3,3 +3,9 @@ function getname(name) {
 }
 getname("Jay");
 getname("rani");
+
+function getfullname(name) {
+  return `HEllo${name}`;
+}
+getfullname("Jay");
+getfullname("rani");
